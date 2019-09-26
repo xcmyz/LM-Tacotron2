@@ -1,2 +1,2 @@
 # LM-Tacotron2
-Tacotron2 Combine with Language Model.
+Tacotron2 Combine with Language Model (BERT).
